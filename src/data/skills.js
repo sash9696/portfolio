@@ -10,7 +10,7 @@ export const skillGroups = {
     'Playwright',
     'React Testing Library',
   ],
-  'AI & tools': ['Gradio', 'OpenAI', 'Hugging Face', 'Claude'],
+  'AI & tools': ['Claude', 'Cursor', 'Gradio', 'OpenAI', 'Hugging Face'],
   Backend: ['Node.js', 'FastAPI', 'MongoDB', 'Firebase'],
 }
 
@@ -34,6 +34,7 @@ export const skillProficiency = {
   Accessibility: 92,
   Playwright: 85,
   'React Testing Library': 88,
+  Cursor: 88,
   Gradio: 82,
   OpenAI: 80,
   'Hugging Face': 78,

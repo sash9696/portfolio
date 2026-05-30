@@ -18,6 +18,21 @@ const socials = [
     Icon: Link2,
   },
   {
+    label: 'Topmate',
+    href: profile.topmate,
+    Icon: ExternalLink,
+  },
+  {
+    label: 'JS Handbook',
+    href: profile.jsHandbook,
+    Icon: ExternalLink,
+  },
+  {
+    label: 'Interview Kit',
+    href: profile.frontendInterviewKit,
+    Icon: ExternalLink,
+  },
+  {
     label: 'CrackIt Dev',
     href: 'https://crackitdev.com',
     Icon: ExternalLink,
@@ -44,10 +59,6 @@ export default function Footer() {
                 className="text-[var(--accent-cyan)] transition hover:text-[var(--accent-lime)]"
               >
                 {profile.email}
-              </a>
-              {' · '}
-              <a href={`tel:${profile.phone.replace(/\s/g, '')}`} className="hover:text-[var(--text-primary)]">
-                {profile.phone}
               </a>
             </p>
           </div>

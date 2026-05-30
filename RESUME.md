@@ -4,8 +4,7 @@
 
 | | |
 |---|---|
-| **Email** | [sahil.chopra9696@gmail.com](mailto:sahil.chopra9696@gmail.com) |
-| **Phone** | +91 7000911390 |
+| **Email** | [sahilchopra838@gmail.com](mailto:sahilchopra838@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/sahil-chopra-56a63b191](https://linkedin.com/in/sahil-chopra-56a63b191) |
 
 ---

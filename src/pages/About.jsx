@@ -61,7 +61,25 @@ export default function About() {
             <a href="https://crackitdev.com" className="text-[var(--accent-cyan)] hover:text-[var(--accent-lime)]">
               CrackIt Dev
             </a>{' '}
-            (frontend interview platform) and the{' '}
+            (frontend interview platform), the{' '}
+            <a
+              href={profile.jsHandbook}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[var(--accent-cyan)] hover:text-[var(--accent-lime)]"
+            >
+              JavaScript Interview Handbook
+            </a>{' '}
+            on Topmate, the free{' '}
+            <a
+              href={profile.frontendInterviewKit}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[var(--accent-cyan)] hover:text-[var(--accent-lime)]"
+            >
+              Frontend Interview Kit
+            </a>{' '}
+            on GitHub (star it if it helps!), and the{' '}
             <a
               href="https://sash007-trend-research-agent.hf.space/"
               className="text-[var(--accent-cyan)] hover:text-[var(--accent-lime)]"
@@ -69,6 +87,18 @@ export default function About() {
               Trend Research Agent
             </a>{' '}
             on Hugging Face for Instagram Reels research.
+          </p>
+          <p>
+            I also offer mentoring on{' '}
+            <a
+              href={profile.topmate}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[var(--accent-cyan)] hover:text-[var(--accent-lime)]"
+            >
+              Topmate
+            </a>{' '}
+            — resume reviews, career guidance, mock interviews, and interview prep tips.
           </p>
           <div className="flex flex-wrap gap-4 pt-1">
             <a
@@ -103,7 +133,8 @@ export default function About() {
       <section className="mt-16 sm:mt-20">
         <h2 className="font-mono text-xl font-semibold text-[var(--text-primary)]">Skills</h2>
         <p className="mt-2 max-w-2xl text-sm text-[var(--text-muted)]">
-          Frontend-first stack with platform engineering, testing, and AI-assisted workflows (including Claude).
+          Frontend-first stack with platform engineering and testing. I use Claude and Cursor in my daily
+          workflow for exploration, refactors, and tests — always with manual review before shipping.
         </p>
         <div className="mt-8 grid gap-10 md:grid-cols-2">
           {Object.entries(skillGroups).map(([group, skills]) => (

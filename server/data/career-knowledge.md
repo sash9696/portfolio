@@ -1,10 +1,10 @@
 # Sahil Chopra — career knowledge (for portfolio chat)
 
 ## Contact
-- Email: sahil.chopra9696@gmail.com
-- Phone: +91 7000911390
+- Email: sahilchopra838@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sahil-chopra-56a63b191
 - GitHub: https://github.com/sash9696
+- Topmate: https://topmate.io/sahil_chopra
 - Location: India
 - Open to: full-time & contract roles, remote-friendly
 
@@ -13,6 +13,9 @@ Senior frontend engineer with 7+ years building production web apps and cloud in
 
 ## Skills
 Vue 3 (Composition API), React, Next.js, TypeScript, JavaScript, Express.js, Vitest, MSW, ESLint, Prettier, Webpack, web performance, accessibility, Playwright, RTL, Node.js, Gradio, Hugging Face.
+
+## AI-assisted development
+Uses **Claude** and **Cursor** in daily workflow for exploration, refactors, and tests — always with **manual review before shipping**. Does not ship AI-generated code without understanding and owning the change.
 
 ## Experience
 
@@ -52,9 +55,17 @@ Client web apps and API integrations.
 ## Education
 B.Tech, Vikram University, 2018
 
-## Side projects
+## Mentoring & interview resources (Topmate)
+- **Topmate profile** — https://topmate.io/sahil_chopra — resume review, career guidance, mock interviews (45 min), interview prep tips, and priority DMs. Former front-end educator at Relevel (Unacademy) with 1,000+ students.
+- **The Complete JavaScript Interview Handbook** (digital ebook) — https://topmate.io/sahil_chopra/1791349 — 28 chapters covering core JS, advanced patterns, and interview problems; 7,200+ lines, 200+ code examples, polyfills, data structures, and a 7-week study plan. Includes free updates.
+
+## Free open source
+- **Frontend Interview & Learning Kit** — https://github.com/sash9696/frontend-interview-kit — free comprehensive frontend interview prep: HTML/CSS, JavaScript, React, DSA, system design, accessibility, performance, machine coding, and project ideas. 12-week roadmap. If it helps, star the repo on GitHub.
+
+## Side projects & learning builds
 - **Trend Research Agent** — https://sash007-trend-research-agent.hf.space/
 - **CrackIt Dev** — https://crackitdev.com
+- **Knowledge Worker** — RAG over demo docs corpus (products, employees, contracts); https://huggingface.co/spaces/sash007/knowledge-worker
 
 ## Highlights
 - Multiple **GA releases** on Cloud BU products

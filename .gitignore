@@ -7,6 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Separate repo: https://github.com/sash9696/rag-knowlege-worker
+docs-rag-space/
+
 node_modules
 dist
 dist-ssr
