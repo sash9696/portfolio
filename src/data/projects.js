@@ -45,18 +45,6 @@ export const projects = [
     year: '2026',
     image: knowledgeWorkerImage,
   },
-  {
-    id: 4,
-    title: 'Frontend Interview Kit',
-    category: 'Education',
-    tags: ['JavaScript', 'React', 'Interview prep', 'Open source', 'Free'],
-    description:
-      'Free open-source guide to frontend interviews — curated resources, 12-week roadmap, DSA, system design, machine coding, and project ideas. Star on GitHub if it helps!',
-    github: 'https://github.com/sash9696/frontend-interview-kit',
-    demo: 'https://github.com/sash9696/frontend-interview-kit',
-    featured: false,
-    year: '2025',
-  },
 ]
 
 export const PROJECT_CATEGORIES = [
