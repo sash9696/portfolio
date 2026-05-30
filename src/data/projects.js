@@ -1,5 +1,6 @@
 import trendResearchImage from '../assets/trend-research-agent.png'
 import crackitdevImage from '../assets/crackitdev.png'
+import knowledgeWorkerImage from '../assets/kw.png'
 
 /** @typedef {{ id: number, title: string, category: string, tags: string[], description: string, github: string, demo: string, featured: boolean, year: string, image?: string }} Project */
 
@@ -39,9 +40,10 @@ export const projects = [
     description:
       'RAG knowledge worker: ingest markdown, retrieve chunks, answer with sources panel. Demo corpus (products, employees, contracts, company) on Hugging Face with HF router.',
     github: 'https://github.com/sash9696/rag-knowlege-worker',
-    demo: 'https://huggingface.co/spaces/sash007/knowledge-worker',
+    demo: 'https://sash007-knowledge-worker.hf.space/',
     featured: false,
     year: '2026',
+    image: knowledgeWorkerImage,
   },
   {
     id: 4,
