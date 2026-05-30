@@ -6,7 +6,7 @@ import { OPEN_PORTFOLIO_CHAT } from '../../lib/portfolioChatEvents.js'
 
 const API_URL = '/api/chat'
 
-const STARTER = `Hi — I'm Sahil's portfolio assistant. Ask about my work at Rakuten, CrackIt Dev, Topmate mentoring, the JavaScript handbook, free interview kit, skills, or how to get in touch.`
+const STARTER = `Hi — I'm Sahil's portfolio assistant. Ask about my work at Rakuten, CrackIt Dev, Knowledge Worker, Topmate mentoring, the free interview kit, skills, or how to get in touch.`
 
 /**
  * @typedef {{ role: 'user' | 'assistant', content: string }} ChatMessage

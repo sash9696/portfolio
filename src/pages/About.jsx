@@ -61,16 +61,7 @@ export default function About() {
             <a href="https://crackitdev.com" className="text-[var(--accent-cyan)] hover:text-[var(--accent-lime)]">
               CrackIt Dev
             </a>{' '}
-            (frontend interview platform), the{' '}
-            <a
-              href={profile.jsHandbook}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[var(--accent-cyan)] hover:text-[var(--accent-lime)]"
-            >
-              JavaScript Interview Handbook
-            </a>{' '}
-            on Topmate, the free{' '}
+            (frontend interview platform), the free{' '}
             <a
               href={profile.frontendInterviewKit}
               target="_blank"
@@ -79,14 +70,25 @@ export default function About() {
             >
               Frontend Interview Kit
             </a>{' '}
-            on GitHub (star it if it helps!), and the{' '}
+            on GitHub (star it if it helps!), the{' '}
             <a
               href="https://sash007-trend-research-agent.hf.space/"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-[var(--accent-cyan)] hover:text-[var(--accent-lime)]"
             >
               Trend Research Agent
             </a>{' '}
-            on Hugging Face for Instagram Reels research.
+            and{' '}
+            <a
+              href="https://sash007-knowledge-worker.hf.space/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[var(--accent-cyan)] hover:text-[var(--accent-lime)]"
+            >
+              Knowledge Worker
+            </a>{' '}
+            on Hugging Face.
           </p>
           <p>
             I also offer mentoring on{' '}

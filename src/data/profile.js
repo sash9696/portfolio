@@ -11,7 +11,6 @@ export const profile = {
   github: 'https://github.com/sash9696',
   linkedin: 'https://www.linkedin.com/in/sahil-chopra-56a63b191',
   topmate: 'https://topmate.io/sahil_chopra',
-  jsHandbook: 'https://topmate.io/sahil_chopra/1791349',
   frontendInterviewKit: 'https://github.com/sash9696/frontend-interview-kit',
   location: 'India',
   openTo: 'Open to full-time & contract roles · remote-friendly',

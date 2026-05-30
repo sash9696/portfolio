@@ -23,11 +23,6 @@ const socials = [
     Icon: ExternalLink,
   },
   {
-    label: 'JS Handbook',
-    href: profile.jsHandbook,
-    Icon: ExternalLink,
-  },
-  {
     label: 'Interview Kit',
     href: profile.frontendInterviewKit,
     Icon: ExternalLink,

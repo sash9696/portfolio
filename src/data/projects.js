@@ -47,18 +47,6 @@ export const projects = [
   },
   {
     id: 4,
-    title: 'The Complete JavaScript Interview Handbook',
-    category: 'Education',
-    tags: ['JavaScript', 'Interview prep', 'Ebook', 'Topmate'],
-    description:
-      '28-chapter technical reference for JavaScript interviews: closures, event loop, polyfills, data structures, design patterns, and a 7-week study plan. 7,200+ lines with 200+ working code examples.',
-    github: '#',
-    demo: 'https://topmate.io/sahil_chopra/1791349',
-    featured: false,
-    year: '2025',
-  },
-  {
-    id: 5,
     title: 'Frontend Interview Kit',
     category: 'Education',
     tags: ['JavaScript', 'React', 'Interview prep', 'Open source', 'Free'],

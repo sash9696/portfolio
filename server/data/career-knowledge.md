@@ -57,8 +57,6 @@ B.Tech, Vikram University, 2018
 
 ## Mentoring & interview resources (Topmate)
 - **Topmate profile** — https://topmate.io/sahil_chopra — resume review, career guidance, mock interviews (45 min), interview prep tips, and priority DMs. Former front-end educator at Relevel (Unacademy) with 1,000+ students.
-- **The Complete JavaScript Interview Handbook** (digital ebook) — https://topmate.io/sahil_chopra/1791349 — 28 chapters covering core JS, advanced patterns, and interview problems; 7,200+ lines, 200+ code examples, polyfills, data structures, and a 7-week study plan. Includes free updates.
-
 ## Free open source
 - **Frontend Interview & Learning Kit** — https://github.com/sash9696/frontend-interview-kit — free comprehensive frontend interview prep: HTML/CSS, JavaScript, React, DSA, system design, accessibility, performance, machine coding, and project ideas. 12-week roadmap. If it helps, star the repo on GitHub.
 
