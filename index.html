@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="dark light" />
+    <meta
+      name="description"
+      content="Sahil Chopra — AI web engineer building fast, accessible frontends and intelligent products."
+    />
+    <script>
+      try {
+        var stored = localStorage.getItem('portfolio-theme')
+        if (stored === 'light' || stored === 'dark') {
+          document.documentElement.dataset.theme = stored
+        } else if (window.matchMedia('(prefers-color-scheme: light)').matches) {
+          document.documentElement.dataset.theme = 'light'
+        } else {
+          document.documentElement.dataset.theme = 'dark'
+        }
+        document.documentElement.style.colorScheme = document.documentElement.dataset.theme
+      } catch (e) {}
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Sora:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Sahil Chopra · AI Web Engineer</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
